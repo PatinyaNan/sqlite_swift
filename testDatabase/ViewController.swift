@@ -119,7 +119,6 @@ class ViewController: UIViewController {
             tf.font = UIFont.systemFont(ofSize: 18)
             tf.keyboardType = .phonePad
         })
-        
         let btCancel = UIAlertAction(title: "Cancel",
                                      style: .cancel,
                                      handler: nil)
